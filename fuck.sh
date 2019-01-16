@@ -6,26 +6,26 @@
 clear
 clear
 
+echo $f "Welcome "
+echo $f "Hello...."
+
 python2 eaa.py
-clear
-toilet -f mono12 -F border k0nt0l
+
+toilet -f mono12 -F border k0nt0l | lolcat
 
 echo "\033[30;1m|_______________________________________________|"
 echo "\033[37;1m[•]-------------------------------------------[•]"
 echo ""
-echo "\033[31;1m[_     ___        _        _"
-echo "\033[32;1m| | __/ _ \ _ __ | |_ ___ | |"
-echo "\033[37;1m| |/ / | | | '_ \| __/ _ \| |"
-echo "\033[33;1m|   <| |_| | | | | || (_) | |"
-echo "\033[30;1m|_|\_\\___/|_| |_|\__\___/|_|"
 echo "\033[30;1m{Author By : Mr Fuckking.   }"
 echo "\033[36;1m[Kontak : mrfucking12@gmail.com]"
+echo "\033[37;1m< From : " "\033[32;1mBaiters Indonesia"
+echo ""
 echo "\033[37;1m------------------------------------------"
 echo "\033[33;1m__________________________________________"
 sleep 01
 echo ""
 echo "\033[34;1m>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
-echo "\033[36;1m|01. " "\033[32;1mInstall ""\033[33; Kont0l.Tools|"
+echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mKont0l.Tools|"
 echo "\033[34;1m<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 echo ""
 echo "\033[32;1m"
