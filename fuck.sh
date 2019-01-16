@@ -1,19 +1,22 @@
  #!/bin/bash
 #KONTOL CLONING YOUR SYSTEM
 #Coded Back by Fucktak :*
+#Welcome
 
-pkg install python2
-
+clear
 clear
 python2 eaa.py
 clear
 
 echo $f "Welcome "
-echo $f "Hello...."
+echo $f "Hello...Script Kiddie 😎"
+
+clear
+clear
 
 sleep 2
 
-toilet -f mono12 -F border k0nt0l | lolcat
+toilet -f mono12 -F border Fuck | lolcat
 
 echo "\033[30;1m|_______________________________________________|"
 echo "\033[37;1m[•]-------------------------------------------[•]"
@@ -27,7 +30,7 @@ echo "\033[33;1m__________________________________________"
 sleep 01
 echo ""
 echo "\033[34;1m>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
-echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mKont0l.Tools|"
+echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mFuck.Tools|"
 echo "\033[34;1m<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 echo ""
 echo "\033[32;1m"
