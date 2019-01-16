@@ -2,14 +2,16 @@
 #KONTOL CLONING YOUR SYSTEM
 #Coded Back by Fucktak :*
 
+pkg install python2
 
 clear
+python2 eaa.py
 clear
 
 echo $f "Welcome "
 echo $f "Hello...."
 
-python2 eaa.py
+sleep 2
 
 toilet -f mono12 -F border k0nt0l | lolcat
 
@@ -18,7 +20,7 @@ echo "\033[37;1m[•]-------------------------------------------[•]"
 echo ""
 echo "\033[30;1m{Author By : Mr Fuckking.   }"
 echo "\033[36;1m[Kontak : mrfucking12@gmail.com]"
-echo "\033[37;1m< From : " "\033[32;1mBaiters Indonesia"
+echo "\033[37;1m< From :" "\033[32;1m.Baiters Indonesia >"
 echo ""
 echo "\033[37;1m------------------------------------------"
 echo "\033[33;1m__________________________________________"
