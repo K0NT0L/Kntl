@@ -16,7 +16,7 @@ def main():
 
 		if pwd == password:
 			print "\n\033[1;34mWelcam to Kontol.git", 
-			sys.exit()
+			exit()
 
 		else:
 			print "\n\033[1;36mSorry Invalid Password !!!\033[00m"
@@ -27,3 +27,8 @@ def main():
 		print "\n\033[1;36mMaafkeun Aing Anda Harus mengulang !!!\033[00m"
 		print "Back Login\n"
 		restart()
+try:
+	main()
+except KeyboardInterrupt:
+	system('clear')
+	restart()
