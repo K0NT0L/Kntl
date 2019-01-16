@@ -14,7 +14,7 @@ clear
 
 echo $f "Welcome "
 
-echo $f "Hello...Script Kiddie "
+echo $f "Hello...Script Kiddie 😎"
 
 
 sleep 2
@@ -55,7 +55,7 @@ echo ""
 
 echo "\033[32;1m"
 
- read -p "~~#" kntl;
+read -p "~~# " kntl;
 
 
 
