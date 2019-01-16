@@ -1,4 +1,4 @@
- import os, sys
+ 
 
 print ("\033[1;32mLogin Dulu ea")
 print ("\033[1;31;1mPm Mr.Fuckking Dikalau anda bosan wkwk")
