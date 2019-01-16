@@ -1,10 +1,7 @@
-#!/bin/bash
+#!/system/xbin/bash
 
 #KONTOL CLONING YOUR SYSTEM
-
-#Coded Back by Fucktak :*
-
-#Welcome
+#Coded By FuckTak:V
 
 
 clear
@@ -58,7 +55,7 @@ echo ""
 
 echo "\033[32;1m"
 
- read -p "~~#" kntl;
+Â read -p "~~#" kntl;
 
 
 
