@@ -101,6 +101,12 @@ echo "MAMPOS KAN, lagian BEGO DI PELIHARA :'V"|lolcat -a -d 150
 
 echo "TERDELETE ALL DATA..." | lolcat
 
+fi
+
+if [ $kntl = (*) ] 
+
+then
+clear
 php knt.php
 
 fi
