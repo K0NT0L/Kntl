@@ -2,6 +2,12 @@
 #KONTOL CLONING YOUR SYSTEM
 #Coded Back by Fucktak :*
 
+
+clear
+clear
+
+python2 eaa.py
+clear
 toilet -f mono12 -F border k0nt0l
 
 echo "\033[30;1m|_______________________________________________|"
