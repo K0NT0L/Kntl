@@ -38,7 +38,7 @@ echo "\033[30;1m{Author By : Mr Fuckking. }"
 
 echo "\033[36;1m[Kontak : mrfucking12@gmail.com]"
 
-echo "\033[37;1m< From :" "\033[32;1m.Baiters Indonesia >"
+echo "\033[37;1m< From :" "\033[32;1m.Baiters Indonesia" "\033[39;1m&"  "\033[22;1mSAD Cyber Team >"
 
 echo ""
 
