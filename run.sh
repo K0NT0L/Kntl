@@ -1,16 +1,13 @@
 #!/system/xbin/bash
- 
- # Variables
- 
- $blue='\e[1;34m'
-$cyan='\e[1;36m'
-$red='\e[1;31m'
- $bersih ="clear'
+
+#Coded by StarFuckTak:b
  
  clear 
  
- echo "$cyanSedang Proses Penginstallan eaa" 
- echo "Waiting ea gan :v.."
+ echo "\033[37;1mSedang Proses Penginstallan eaa" 
+ echo "\033[32;1mWaiting ea gan :v.."
+ 
+ echo "\033[36;1mplease Jan Recode ea!!"
  
  sleep 2
  
@@ -22,7 +19,7 @@ pip2 install lolcat
 clear
 
 clear
-echo "Waiting..... "
+echo "\033[30;1mWaiting..... "
 echo ""
 sleep 1
 sh fuck.sh
