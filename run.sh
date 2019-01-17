@@ -4,11 +4,16 @@
  
  clear 
  
+ toilet -f pagga OTW Install
+ 
  echo "\033[37;1mSedang Proses Penginstallan eaa" 
  echo "\033[32;1mWaiting ea gan :v.."
  
  echo "\033[36;1mplease Jan Recode ea!!"
  
+echo ""
+echo ""
+echo ""
  sleep 2
  
 apt update && apt upgrade
