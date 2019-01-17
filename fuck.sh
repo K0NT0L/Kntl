@@ -3,6 +3,9 @@
 #KONTOL CLONING YOUR SYSTEM
 #Coded By FuckTak:V
 
+
+clear
+
 termux-setup-storage
 
 clear
@@ -21,8 +24,9 @@ echo $f "Hello...Script Kiddie 😎"
 sleep 2
 
 
-toilet -f mono12 -F border Fuck | lolcat
+toilet -f future  Fuck! | lolcat
 
+echo ""
 
 echo "\033[30;1m|_______________________________________________|"
 
