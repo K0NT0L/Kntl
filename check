@@ -11,5 +11,6 @@ echo "$green [INTERNET] :Connected !"
 else
 echo "$red [INTERNET] : Not Connected !"
 echo ""
+echo ""
 sleep 1
 fi
