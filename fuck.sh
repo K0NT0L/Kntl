@@ -3,6 +3,13 @@
 #KONTOL CLONING YOUR SYSTEM
 #Coded By FuckTak:V
 
+purple='\033[35;1m'
+cyan='\033[36;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+red='\033[1;91m'
+blue='\033[34;1m'
+green='\033[32;1m'
 
 clear
 clear
@@ -19,9 +26,9 @@ python2 eaa.py
 clear
 clear
 
-echo $f "Welcome "
+echo $f "$purple Welcome "
 
-echo $f "Hello...Script Kiddie 😎"
+echo $f "$cyan Hello...Script Kiddie 😎"
 
 
 sleep 2
@@ -31,23 +38,17 @@ toilet -f mono12 -F gay "Fuck"
 
 echo ""
 
-echo "\033[30;1m|_______________________________________________|"
+echo "$white |" "$green ________________________________________|"
 
-echo "\033[37;1m|-------------------------------------------[*]"
+echo "$white | " "$red Author By : StarFuckTak ;v               |"
 
-echo ""
+echo "$white | " "$yellow Kontak : mrfucking12@gmail.com        |"
 
-echo "\033[30;1m| Author By : StarFuckTak ;v"
+echo "$white | " "$cyan From : SAD Cyber Team                   |"
 
-echo "\033[36;1m| Kontak : mrfucking12@gmail.com"
+echo "$white | "  "Coder : bash/shell                            |"
 
-echo "\033[37;1m| From :" "\033[32;1m.Baiters Indonesia" "\033[39;1m&"  "\033[22;1mSAD Cyber Team"
-
-echo ""
-
-echo "\033[37;1m|------------------------------------------|"
-
-echo "\033[33;1m|__________________________________________|"
+echo "$white |" "$green ________________________________________|"
 
 sleep 01
 
