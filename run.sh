@@ -47,9 +47,10 @@ clear
 ping -q -c 1 -W 1 8.8.8.8 >/dev/null;
 echo "$green [INTERNET] : connected !"
 else
-echo "$yellow [INTERNET] : Not Connected !"
-sleep 1
+echo "$yellow [INTERNET] : Not Connected !";
+
 sh fuck.sh
+
 fi
 
 if [ $ezz = N ] || [ $ezz = n ]
