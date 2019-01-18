@@ -38,17 +38,17 @@ toilet -f mono12 -F gay "Fuck"
 
 echo ""
 
-echo "$white |" "$green ________________________________________|"
+echo "$white |" "$green _______________________________________|"
 
-echo "$white | " "$red Author By : StarFuckTak ;v               |"
+echo "$white |" "$red Author By : StarFuckTak ;v               |"
 
-echo "$white | " "$yellow Kontak : mrfucking12@gmail.com        |"
+echo "$white |" "$yellow Kontak : mrfucking12@gmail.com        |"
 
-echo "$white | " "$cyan From : SAD Cyber Team                   |"
+echo "$white |" "$cyan From : SAD Cyber Team                   |"
 
-echo "$white | "  "Coder : bash/shell                            |"
+echo "$white |"  "$white Coder : bash/shell                    |"
 
-echo "$white |" "$green ________________________________________|"
+echo "$white |" "$green _______________________________________|"
 
 sleep 01
 
