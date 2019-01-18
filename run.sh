@@ -24,6 +24,8 @@ if [ $kntl = Y ] || [ $kntl = y ]
 then
 clear 
 sh check 
+echo ""
+echo "" 
  sleep 2
  
 apt update && apt upgrade
