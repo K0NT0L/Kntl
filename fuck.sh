@@ -27,7 +27,7 @@ echo $f "Hello...Script Kiddie 😎"
 sleep 2
 
 
-$ toilet -f mono12 -F gay "Fuck"
+toilet -f mono12 -F gay "Fuck"
 
 echo ""
 
