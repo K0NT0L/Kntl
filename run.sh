@@ -13,16 +13,17 @@ red='\033[1;91m'
  clear 
  clear 
  
- toilet -f pagga OTW Install
- 
- echo "\033[35;1mSedang Proses Penginstallan eaa" 
- echo "\033[32;1mWaiting ea gan :v.."
- 
- echo "\033[36;1mplease Don't Recode ea!!"
- 
-echo ""
-echo ""
+ toilet -f pagga Welcome 
+ echo "$cyan To Install My tools"
+echo "$green please check your internet{Y/N}"
+echo "" 
+read -p "-# " kntl; 
 
+
+if [ $kntl = Y ] || [ $kntl = y ]
+then
+clear 
+sh check 
  sleep 2
  
 apt update && apt upgrade
@@ -30,34 +31,20 @@ pkg install python python2 vim figlet curl
 pkg install php
 pip2 install lolcat
 pip2 install mechanize 
-
+git clone https://github.com/K0NT0L/Kntl
 clear
 clear
-clear 
-echo ""
-echo "$cyan To Install My tools"
-echo "$green First check your internet{Y/N}"
-echo "" 
-read -p "-# " ezz; 
-
-
-if [ $ezz = Y ] || [ $ezz = y ]
-then
-clear 
-ping -q -c 1 -W 1 8.8.8.8 >/dev/null;
-echo "$green [INTERNET] : connected !"
-else
-echo "$yellow [INTERNET] : Not Connected !";
-
+cd Kntl 
+chmod +x fuck.sh
 sh fuck.sh
 
 fi
 
-if [ $ezz = N ] || [ $ezz = n ]
+if [ $kntl = N ] || [ $kntl = n ]
 then
 clear
 toilet -f standard "Thanks" | lolcat 
-echo "$purpleTrying To exit... "
+echo "$purple Trying To exit... "
 echo ""
 fi 
 
