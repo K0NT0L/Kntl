@@ -35,8 +35,8 @@ clear
 clear
 clear 
 echo ""
-echo "$cyanTo Install My tools"
-echo "$greenFirst check your internet{Y/N}"
+echo "$cyan To Install My tools"
+echo "$green First check your internet{Y/N}"
 echo "" 
 read -p "-# " ezz; 
 
@@ -45,8 +45,9 @@ if [ $ezz = Y ] || [ $ezz = y ]
 then
 clear 
 ping -q -c 1 -W 1 8.8.8.8 >/dev/null;
-then
 echo "$green [INTERNET] : connected !"
+else
+echo "$yellow [INTERNET] : Not Connected !"
 sleep 1
 sh fuck.sh
 fi
@@ -57,6 +58,5 @@ clear
 toilet -f standard "Thanks" | lolcat 
 echo "$purpleTrying To exit... "
 echo ""
-sleep 1
 fi 
 
