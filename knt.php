@@ -17,6 +17,6 @@ echo "\n$yellow
   echo "\n";
  echo "\n$green==>>\n";
   echo "\n$red==>>Good Bye Script Kiddie😇\n";
-  echo "\n$blue==>>\n$
-echo "\n";
+  echo "\n$blue==>>\n"
+echo "\n$white";
 ?>
