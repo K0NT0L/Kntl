@@ -59,11 +59,11 @@ echo "\033[33;1m>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mFuck.Tools"
 echo "\033[39;1m|02. " "\033[32;1mInstall " "$white Tools TuanStar"
 echo "\033[33;1m|03. "$yellow.Install Star Spamer"
-echo "$yellow. |04. "$blue Info"
+echo "|04. Info" | lolcat 
 echo "\033[38;1m|05. "$red Webdav by "$yellow.Star"
-echo "$white |06. "$purple.Bot Komen By "$yellow.Star"
-echo "$green |0. "$cyan.exit"
-echo "$blue.<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
+echo "|06. Bot Komen By "$yellow.Star" | lolcat
+echo "|0. exit" | lolcat 
+echo "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" | lolcat
 
 echo ""
 echo ""
