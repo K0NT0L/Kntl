@@ -54,7 +54,7 @@ sleep 01
 
 echo ""
 echo ""
-echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat 
+echo $b ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat 
 
 echo "|01. Install Fuck.Tools" | lolcat
 echo "|02. Install Tools TuanStar" | lolcat 
@@ -63,7 +63,7 @@ echo "|04. Info" | lolcat
 echo "|05. Webdav by Star" | lolcat
 echo "|06. Bot Komen By "$yellow.Star" | lolcat
 echo "|0. exit" | lolcat 
-echo "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" | lolcat
+echo $b "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" | lolcat
 
 echo ""
 echo ""
