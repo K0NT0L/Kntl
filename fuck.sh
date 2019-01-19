@@ -63,7 +63,7 @@ echo "|04. Info" | lolcat
 echo "|05. Webdav by Star" | lolcat
 echo "|06. Bot Komen By "$yellow.Star" | lolcat
 echo "|0. exit" | lolcat 
-echo $b "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" | lolcat
+echo $b ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat
 
 echo ""
 echo ""
