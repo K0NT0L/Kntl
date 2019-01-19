@@ -7,8 +7,7 @@ $bersih="clear";
 }
 
 clear
-  
-$red ="\e[91m";
+  clear 
 $yellow ="\e[93m";
 $blue ="\e[36m";
 
