@@ -8,9 +8,9 @@ $bersih="clear";
 
 clear
   
-$red = "\e[91m";
-$yellow = "\e[93m";
-$blue = "\e[36m";
+$red ="\e[91m";
+$yellow ="\e[93m";
+$blue ="\e[36m";
 
 echo "\n$yellow
   ________________________
@@ -18,7 +18,7 @@ echo "\n$yellow
   ------------------------\n";
   echo "\n";
  echo "\n$green==>>\n";
-  echo "\n$red==>>Good Bye Script Kiddie😇\n";
+  echo "$red==>>Good Bye Script Kiddie😇\n";
   echo "\n$blue==>>\n"
 echo "\n$white.";
 ?>
