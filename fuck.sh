@@ -56,14 +56,19 @@ echo ""
 echo ""
 echo "\033[33;1m>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 
-echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mFuck.Tools|"
-
+echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mFuck.Tools"
+echo "\033[39;1m|02. " "\033[32;1mInstall " "$white Tools TuanStar"
+echo "$cyan |03. " $yellow Install Star Spamer "
+echo "$purple |04. "$blue Info "
+echo "$red |05. "$red Webdav by "$yellow Star"
+echo "$white |06. "$purple Bot Komen By "$yellow Star"
+echo "$green |0. "$cyan exit"
 echo "\033[34;1m<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<"
 
 echo ""
 echo ""
 
-echo "\033[32;1m"
+echo "$white "
 
 read -p "~~# " kntl;
 
@@ -80,3 +85,56 @@ php knt.php
 
 fi
 
+if [ $kntl = 02 ] || [ $kntl = 2 ]
+
+then
+clear
+clear
+git clone https://github.com/SADCyberTeam/TuanStar
+cd TuanStar
+sh joned.sh
+
+fi 
+
+if [ $kntl = 03 ] || [ $kntl = 3 ]
+then 
+clear
+git clone https://github.com/SADCyberTeam/spamer
+cd spamer
+sh Str.sh
+
+fi 
+
+if [ $kntl = 04 ] || [ $kntl = 4 ]
+then
+clear
+cat hae.txt
+
+fi 
+
+if [ $kntl = 05 ] || [ $kntl = 5 ]
+then 
+clear
+git clone https://github.com/SADCyberTeam/TuanStar
+cd TuanStar
+sh colly.sh
+
+fi 
+
+if [ $kntl = 06 ] || [ $kntl = 6 ]
+then 
+clear 
+php token.php
+echo ""
+php bot.php
+
+fi 
+
+if [ $kntl = 0 ] || [ $kntl = 0 ]
+then 
+clear 
+clear 
+echo "Thx Sudah Datang:'v" | lolcat
+echo ""
+
+fi
