@@ -38,32 +38,27 @@ toilet -f mono12 -F gay "Fuck"
 
 echo ""
 
-echo "$green _______________________________________|"
+echo "$green _______________________________________"
 
-echo "$red Author By : StarFuckTak ;v               |"
+echo "$red Author By : StarFuckTak ;v               "
 
-echo "$yellow Kontak : mrfucking12@gmail.com        |"
+echo "$yellow Kontak : mrfucking12@gmail.com        "
 
-echo "$cyan From : SAD Cyber Team                   |"
+echo "$cyan From : SAD Cyber Team                   "
 
-echo "$white Coder : bash/shell                     |"
+echo "$white Coder : bash/shell                     "
 
-echo "$green _______________________________________|"
+echo "$green _______________________________________"
 
 sleep 01
 
 echo ""
 echo ""
-echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat 
-
-echo "|01. Install Fuck.Tools" | lolcat
-echo "|02. Install Tools TuanStar" | lolcat 
-echo "|03. Install Star Spamer" | lolcat 
-echo "|04. Info" | lolcat 
-echo "|05. Webdav by Star" | lolcat
-echo "|06. Bot Komen By "$yellow.Star" | lolcat
-echo "|0 . Exit" | lolcat 
-echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat
+echo "$red >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+echo ""
+echo "$green |01. " "$purple Install " "$white Fuck.Tools"
+echo ""
+echo "$blue >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 
 echo ""
 echo ""
@@ -82,59 +77,4 @@ clear
 sh me.sh
 
 php knt.php
-
-fi
-
-if [ $kntl = 02 ] || [ $kntl = 2 ]
-
-then
-clear
-clear
-git clone https://github.com/SADCyberTeam/TuanStar
-cd TuanStar
-sh joned.sh
-
 fi 
-
-if [ $kntl = 03 ] || [ $kntl = 3 ]
-then 
-clear
-git clone https://github.com/SADCyberTeam/spamer
-cd spamer
-sh Str.sh
-
-fi 
-
-if [ $kntl = 04 ] || [ $kntl = 4 ]
-then
-clear
-cat hae.txt
-
-fi 
-
-if [ $kntl = 05 ] || [ $kntl = 5 ]
-then 
-clear
-git clone https://github.com/SADCyberTeam/TuanStar
-cd TuanStar
-sh colly.sh
-
-fi 
-
-if [ $kntl = 06 ] || [ $kntl = 6 ]
-then 
-clear 
-php token.php
-echo ""
-php bot.php
-
-fi 
-
-if [ $kntl = 0 ] || [ $kntl = 0 ]
-then 
-clear 
-clear 
-echo "Thx Sudah Datang:'v" | lolcat
-echo ""
-
-fi
