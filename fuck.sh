@@ -54,13 +54,13 @@ sleep 01
 
 echo ""
 echo ""
-echo "\033[33;1m>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
+echo ">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>" | lolcat 
 
-echo "\033[36;1m|01. " "\033[32;1mInstall " "\033[33;1mFuck.Tools"
-echo "\033[39;1m|02. " "\033[32;1mInstall " "$white Tools TuanStar"
-echo "\033[33;1m|03. "$yellow.Install Star Spamer"
+echo "|01. Install Fuck.Tools" | lolcat
+echo "|02. Install Tools TuanStar" | lolcat 
+echo "|03. Install Star Spamer" | lolcat 
 echo "|04. Info" | lolcat 
-echo "\033[38;1m|05. "$red Webdav by "$yellow.Star"
+echo "|05. Webdav by Star" | lolcat
 echo "|06. Bot Komen By "$yellow.Star" | lolcat
 echo "|0. exit" | lolcat 
 echo "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<" | lolcat
